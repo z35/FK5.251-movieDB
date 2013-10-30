@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="action_settings">Einstellungen</string>
+    <string name="app_name">FilmDB</string>
+    <string name="btn_Clear">Leeren</string>
+    <string name="desc_Genre">Genre</string>
+    <string name="desc_Length">Dauer</string>
+    <string name="desc_Title">Titel</string>
+    <string name="btn_Call">Hotline</string>
+
+</resources>

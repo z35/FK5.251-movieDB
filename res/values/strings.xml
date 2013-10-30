@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieDB</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc_Title">Title</string>
+    <string name="desc_Genre">Genre</string>
+    <string name="desc_Length">Length</string>
+    <string name="btn_Clear">Clear</string>
+    <string name="btn_Call">HelpDesk</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
